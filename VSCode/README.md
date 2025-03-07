@@ -39,22 +39,22 @@
 ```
 ResNet/
 │
-├── Models/              # 학습된 모델 가중치 저장 디렉토리
-│   ├── fruit_veg_batch64_lr0.001_epoch10.pth  # 과일/채소 분류 모델
-│   ├── f_f_r_batch64_lr0.001_epoch10.pth      # 과일 신선도 분류 모델
-│   ├── v_f_r_batch64_lr0.001_epoch10.pth      # 채소 신선도 분류 모델
-│   ├── f_8class_batch64_lr0.001_epoch10.pth   # 과일 품목 분류 모델
-│   ├── v_14class_batch64_lr0.001_epoch10.pth  # 채소 품목 분류 모델
+├── Models/           
+│   ├── fruit_veg_batch64_lr0.001_epoch10.pth 
+│   ├── f_f_r_batch64_lr0.001_epoch10.pth     
+│   ├── v_f_r_batch64_lr0.001_epoch10.pth   
+│   ├── f_8class_batch64_lr0.001_epoch10.pth  
+│   ├── v_14class_batch64_lr0.001_epoch10.pth  
 │
-├── Notebooks/          # Jupyter Notebook 파일
-│   ├── 1_Fruit_Veg.ipynb             # 과일/채소 분류 모델 학습 및 평가
-│   ├── 2_1_Fruit_fresh_rotten.ipynb   # 과일 신선도 분류 모델 학습 및 평가
-│   ├── 2_2_Veg_fresh_rotten.ipynb     # 채소 신선도 분류 모델 학습 및 평가
-│   ├── 3_1_Fruit_8class.ipynb         # 과일 품목 분류 모델 학습 및 평가
-│   ├── 3_2_Veg_14class.ipynb          # 채소 품목 분류 모델 학습 및 평가
-│   ├── Evaluation.ipynb               # 최종 모델 평가 및 비교
+├── Notebooks/          
+│   ├── 1_Fruit_Veg.ipynb          
+│   ├── 2_1_Fruit_fresh_rotten.ipynb  
+│   ├── 2_2_Veg_fresh_rotten.ipynb   
+│   ├── 3_1_Fruit_8class.ipynb       
+│   ├── 3_2_Veg_14class.ipynb        
+│   ├── Evaluation.ipynb          
 │
-└── README.md            # 프로젝트 설명서
+└── README.md        
 ```
 
 ---

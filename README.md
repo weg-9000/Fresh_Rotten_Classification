@@ -2,6 +2,16 @@
 
 이 프로젝트는 **과일과 채소의 신선도를 분류하고, 종류를 식별**하는 시스템입니다. **Azure ML, Azure Custom Vision, VSCode(ResNet)**를 활용하여 3단계 분류 작업을 수행합니다.
 
+**Microsoft AI School** 6기 Azure Machine Learning 프로젝트 (2025년 2월 13일 - 26일)
+
+🏆 **9팀 구성원**\
+배채은 [@chaeengg](https://github.com/chaeengg)\
+하지민 [@nongbuim](https://github.com/nongbuim)\
+김다영 [@daykim](https://github.com/daykim)\
+정도헌 [@weg-9000](https://github.com/weg-9000)\
+오동준 [@Ryan-OH](https://github.com/Ryan-OH)\
+프셰므 Krompiec Przemyslaw Kazimierz [@xenomore85](https://github.com/xenomore85)
+
 
 ## 📌 프로젝트 기능 
 

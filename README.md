@@ -1,4 +1,4 @@
-# 🍏 Fresh & Rotten Classification
+# ![logo_icon](https://github.com/user-attachments/assets/f18dbec3-059c-411a-b7e3-f9f804aac306) Fresh & Rotten Classification
 
 이 프로젝트는 **과일과 채소의 신선도를 분류하고, 종류를 식별**하는 시스템입니다. **Azure ML, Azure Custom Vision, VSCode(ResNet)**를 활용하여 3단계 분류 작업을 수행합니다.
 

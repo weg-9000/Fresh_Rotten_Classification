@@ -40,19 +40,14 @@
 ResNet/
 │
 ├── Models/           
-│   ├── fruit_veg_batch64_lr0.001_epoch10.pth 
-│   ├── f_f_r_batch64_lr0.001_epoch10.pth     
-│   ├── v_f_r_batch64_lr0.001_epoch10.pth   
-│   ├── f_8class_batch64_lr0.001_epoch10.pth  
-│   ├── v_14class_batch64_lr0.001_epoch10.pth  
+│   ├── 1_Fruit_Veg.ipynb  
+│   ├── 2_1_Fruit_fresh_rotten.ipynb     
+│   ├── 2_2_Veg_fresh_rotten.ipynb  
+│   ├── 3_1_Fruit_8class.ipynb
+│   ├── 3_2_Veg_14class.ipynb   
 │
-├── Notebooks/          
-│   ├── 1_Fruit_Veg.ipynb          
-│   ├── 2_1_Fruit_fresh_rotten.ipynb  
-│   ├── 2_2_Veg_fresh_rotten.ipynb   
-│   ├── 3_1_Fruit_8class.ipynb       
-│   ├── 3_2_Veg_14class.ipynb        
-│   ├── Evaluation.ipynb          
+├── Evalution/               
+│   └── Evaluation.ipynb          
 │
 └── README.md        
 ```
@@ -64,7 +59,7 @@ ResNet/
 ### 1️⃣ 단계별 모델 생성 및 저장
 
 ```bash
-jupyter notebook notebooks/1._Fruit_Veg.ipynb
+jupyter notebook Models/1._Fruit_Veg.ipynb
 ```
 
 🔹 **Jupyter Notebook 실행**: 해당 노트북을 실행하여 총 3단계의 학습을 진행합니다.

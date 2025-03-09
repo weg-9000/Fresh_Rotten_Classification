@@ -1,4 +1,4 @@
-# img src="https://github.com/weg-9000/image/blob/main/logo_mini.PNG" alt="Example Image" width="32" height="32" style="vertical-align: middle;"> AzureCustomVision vs ResNet vs DenseNet
+# <img src="https://github.com/weg-9000/image/blob/main/logo_mini.PNG" alt="Example Image" width="32" height="32" style="vertical-align: middle;"> AzureCustomVision vs ResNet vs DenseNet
 
 ## 📝개요
 

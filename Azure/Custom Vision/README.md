@@ -1,4 +1,4 @@
-# 🧠 Azure Custom Vision을 활용한 과일 및 채소 이미지 분류
+# <img src="https://github.com/weg-9000/image/blob/main/logo_mini.PNG" alt="Example Image" width="32" height="32"> Azure Custom Vision을 활용한 과일 및 채소 이미지 분류
 
 ## 📌 프로젝트 개요
 이 프로젝트는 **Azure Custom Vision API**를 이용하여 과일 및 채소 이미지를 분석하고 **신선도 및 종류를 예측**하는 프로그램입니다.

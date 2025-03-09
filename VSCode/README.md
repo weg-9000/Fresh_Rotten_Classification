@@ -1,4 +1,4 @@
-# 🍎 ResNet을 활용한 과일 및 채소 이미지 분류
+# <img src="https://github.com/weg-9000/image/blob/main/logo_mini.PNG" alt="Example Image" width="32" height="32" style="vertical-align: middle;"> ResNet을 활용한 과일 및 채소 이미지 분류
 
 ## 📌 프로젝트 개요
 

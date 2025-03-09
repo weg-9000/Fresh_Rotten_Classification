@@ -44,19 +44,19 @@
 ## 📊 프로젝트 구조
 
 ### 1. **Azure Custom Vision을 활용한 과일 및 채소 이미지 분류**
-
+```
 Azure AI CustomVision/
 ├── code/
 | ├ AzureCV.ipynb
 | └── README.md
 └── README.md
-
+```
 ### 2. **DenseNet/ResNet 모델 훈련 및 평가**
-
+```
 Azure ML/
 ├── code/
 | ├ MLDesigner.ipynb
 | └── README.md
 └── README.md
-
+```
 ---

@@ -68,4 +68,6 @@ Fresh_Rotten_Classification/
 ```
 
 ---
-![app1](https://github.com/weg-9000/image/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-09%20234806.png)
+<p align="center">
+   <img src= "https://github.com/weg-9000/image/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-09%20234806.png" alt="Example Image">
+</p>

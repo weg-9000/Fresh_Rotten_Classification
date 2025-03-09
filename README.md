@@ -42,32 +42,7 @@
 - 필요한 Python 패키지 설치
 
 
-### 🔹 프로젝트 구조
-```
-Fresh_Rotten_Classification/
-│
-├── Azure/               
-│   ├── AzureML      
-│   └── Custom Vision     
-│
-├── Data/
-│   ├── Dataset     
-│   └── Preprocessing       
-│
-├── Model Evaluation/    
-│   ├── Metric_Evaluation      
-│   └── Preprocessing      
-│
-├── VSCode/    
-│   ├── Models     
-│   └── Evaluation    
-│
-├── Unity/      
-│
-└── README.md    
-```
-
----
+#성
 <p align="center">
    <img src= "https://github.com/weg-9000/image/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-03-09%20234806.png" alt="Example Image">
 </p>

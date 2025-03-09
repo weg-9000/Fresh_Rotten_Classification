@@ -1,5 +1,4 @@
-# ![logo](https://github.com/weg-9000/image/blob/main/logo_mini.PNG)    프로젝트 개요
-
+#  <img src="https://github.com/weg-9000/image/blob/main/logo_mini.PNG" alt="Example Image" width="20" height="20">   프로젝트 개요
 이 리포지토리는 두 가지 주요 프로젝트로 구성되어 있습니다:
 
 1. **Azure Custom Vision을 활용한 과일 및 채소 이미지 분류**

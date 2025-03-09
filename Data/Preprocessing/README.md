@@ -1,4 +1,4 @@
-# 📌 이미지 처리🖼️
+# <img src="https://github.com/weg-9000/image/blob/main/logo_mini.PNG" alt="Example Image" width="32" height="32" style="vertical-align: middle;"> 이미지 처리🖼️
 
 ## 📚 개요
 

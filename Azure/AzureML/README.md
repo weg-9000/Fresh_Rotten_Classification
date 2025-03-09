@@ -1,4 +1,4 @@
-# 🍅 파이프라인을 활용한 모델 훈련 및 평가
+# <img src="https://github.com/weg-9000/image/blob/main/logo_mini.PNG" alt="Example Image" width="32" height="32"> 파이프라인을 활용한 모델 훈련 및 평가
 
 이 리포지토리는 이미지 데이터셋을 사용하여 DenseNet 혹은 ResNet모델을 훈련시키고 평가하는 머신 러닝 파이프라인을 설명합니다.
 

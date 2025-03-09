@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e361b831-31f6-43af-9ed3-2af9695ed695" alt="Example Image" width="150" height="150">
+  <img src="https://github.com/user-attachments/assets/e361b831-31f6-43af-9ed3-2af9695ed695" alt="Example Image">
 </p>
 # <img src="https://github.com/weg-9000/image/blob/main/logo_mini.PNG" alt="Example Image" width="32" height="32" style="vertical-align: middle;"> Fresh & Rotten Classification
 

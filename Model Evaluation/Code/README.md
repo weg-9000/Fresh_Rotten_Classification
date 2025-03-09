@@ -1,4 +1,4 @@
-# 📊 모델 성능 비교 및 시각화
+# <img src="https://github.com/weg-9000/image/blob/main/logo_mini.PNG" alt="Example Image" width="32" height="32" style="vertical-align: middle;"> 모델 성능 비교 및 시각화
 
 ## 📌 개요
 

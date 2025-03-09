@@ -1,4 +1,4 @@
-# <img src="https://github.com/weg-9000/image/blob/main/logo_mini.PNG" alt="Example Image" width="32" height="32" style="vertical-align: middle;"> Fruits and Vegetables Dataset Collection
+# <img src="https://github.com/weg-9000/image/blob/main/logo_mini.PNG" alt="Example Image" width="32" height="32" style="vertical-align: bottom;"> Fruits and Vegetables Dataset Collection
 
 ## URLs
 
